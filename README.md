@@ -1,2 +1,2 @@
-# lebanon-news-app
+# News+
 Support and Marketing Page for Lebanon News App
